@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://IsaacZD.github.io/sitemap.xml
